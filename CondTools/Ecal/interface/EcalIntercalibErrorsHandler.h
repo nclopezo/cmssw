@@ -3,7 +3,6 @@
    Declaration of class IntercalibErrorsHandler
 
    \author Stefano ARGIRO
-   \version $Id: EcalIntercalibErrorsHandler.h,v 1.1 2008/11/14 15:46:05 argiro Exp $
    \date 09 Sep 2008
 */
 

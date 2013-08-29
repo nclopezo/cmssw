@@ -1,7 +1,6 @@
 /**
  * Author: Sridhara Dasu
  * Created: 04 July 2007
- * $Id: L1RCTParameters.cc,v 1.24 2010/05/24 11:54:35 efron Exp $
  **/
 
 #include <iostream>

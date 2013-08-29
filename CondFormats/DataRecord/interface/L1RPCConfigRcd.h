@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Tue Mar 20 14:39:09 CET 2007
-// $Id: L1RPCConfigRcd.h,v 1.1 2007/03/23 14:36:40 wsun Exp $
 //
 
 #include "boost/mpl/vector.hpp"

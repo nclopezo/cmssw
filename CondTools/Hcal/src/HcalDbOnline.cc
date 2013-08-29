@@ -1,7 +1,6 @@
 
 //
 // F.Ratnikov (UMd), Dec 14, 2005
-// $Id: HcalDbOnline.cc,v 1.21 2010/11/29 20:41:57 wmtan Exp $
 //
 #include <limits>
 #include <string>

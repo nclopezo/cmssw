@@ -1,8 +1,6 @@
 /*
  * Payload definition(s): Chamber Gas Humidity (RPCObGasHum)
  *
- *  $Date: 2009/12/14 16:00:11 $
- *  $Revision: 1.2 $
  *  \author D. Pagano - Dip. Fis. Nucl. e Teo. & INFN Pavia
  */
 

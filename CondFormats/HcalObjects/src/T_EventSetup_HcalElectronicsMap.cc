@@ -1,5 +1,4 @@
 //
-// $Id: T_EventSetup_HcalElectronicsMap.cc,v 1.1 2005/10/18 23:34:56 fedor Exp $
 //
 
 // system include files

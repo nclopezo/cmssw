@@ -8,7 +8,6 @@
 //
 // Author:      Chris Jones
 // Created:     Mon Apr 18 16:42:52 EDT 2005
-// $Id: T_EventSetup_Pedestals.cc,v 1.3 2006/11/13 10:07:32 xiezhen Exp $
 //
 
 // system include files

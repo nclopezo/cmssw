@@ -5,8 +5,6 @@
  *  Description:
  *       Class to compute a sequential number for drift tube cells
  *
- *  $Date: 2012/02/07 18:34:59 $
- *  $Revision: 1.1.2.1 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

@@ -11,9 +11,6 @@
 /// parameters for all detector IDs are stored inside one big vector.
 /// Access is provided via a pair of iterators for this vector.
 ///
-///  $Date: 2010/10/26 20:41:07 $
-///  $Revision: 1.1 $
-/// (last update by $Author: flucke $)
 
 class AlignmentSurfaceDeformations {
 public:

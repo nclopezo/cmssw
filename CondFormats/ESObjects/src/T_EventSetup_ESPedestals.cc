@@ -8,7 +8,6 @@
 //
 // Author:      Chris Jones
 // Created:     Mon Apr 18 16:42:52 EDT 2005
-// $Id: T_EventSetup_ESPedestals.cc,v 1.1 2009/03/27 15:31:49 fra Exp $
 //
 
 // system include files

@@ -1,5 +1,4 @@
 /*
- * $Id: EcalSRSettings.h,v 1.1 2010/06/09 14:23:32 pgras Exp $
  *
  * Original author: Ph. Gras CEA/IRFU Saclay.  June, 2010
  *

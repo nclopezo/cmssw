@@ -8,7 +8,6 @@
 //
 // Original Author:  Werner Sun
 //         Created:  Mon Oct 23 21:52:36 EDT 2006
-// $Id: L1CaloGeometry.cc,v 1.4 2009/09/28 22:59:14 wsun Exp $
 //
 
 // system include files

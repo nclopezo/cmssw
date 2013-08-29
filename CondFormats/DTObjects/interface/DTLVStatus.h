@@ -5,8 +5,6 @@
  *  Description:
  *       Class to hold CCB status
  *
- *  $Date: 2009/03/26 14:10:59 $
- *  $Revision: 1.1 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

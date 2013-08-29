@@ -3,7 +3,6 @@
    and vice versa
 
    \author Seth COOPER
-   \version $Id: EcalTimeCalibConstantsXMLTranslator.h,v 1.1 2009/10/26 16:15:16 scooper Exp $
    \date 20 Jun 2008
 */
 

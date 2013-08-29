@@ -3,7 +3,6 @@
 /**
  * Author: Paolo Meridiani
  * Created: 14 November 2006
- * $Id: $
  **/
 
 

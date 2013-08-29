@@ -15,7 +15,6 @@
 //
 // Original Author:  Vincenzo CHIOCHIA
 //         Created:  Tue Oct 17 17:40:56 CEST 2006
-// $Id: SiPixelCondObjAllPayloadsReader.h,v 1.4 2009/05/28 22:12:54 dlange Exp $
 //
 //
 #include "FWCore/Framework/interface/Frameworkfwd.h"

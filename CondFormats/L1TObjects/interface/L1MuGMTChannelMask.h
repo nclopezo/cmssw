@@ -7,7 +7,6 @@
 */                  
 //
 //   $Date$
-//   $Revision$
 //
 //
 //   Author :

@@ -1,7 +1,6 @@
 /**
    Translates a EcalGainRatio record to XML and vice versa   
    \author Francesco RUBBO
-   \version $Id: EcalDAQTowerStatusXMLTranslator.h,v 0 2010/05/31 fay Exp $
    \date 26 Apr 2010
 */
 
@@ -16,7 +15,6 @@
 #include <xercesc/dom/DOMNode.hpp>
 
 static const char CVSId__EcalDAQTowerStatusXMLTranslator[] = 
-"$Id: EcalDAQTowerStatusXMLTranslator.h,v 0 2010/05/31 fay Exp $";
 
 
 //class EcalDAQTowerStatus;

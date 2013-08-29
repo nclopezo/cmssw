@@ -1,7 +1,6 @@
 
 //
 // F.Ratnikov (UMd), Dec 14, 2005
-// $Id: HcalDbPoolOCCI.cc,v 1.6 2009/12/04 03:42:53 elmer Exp $
 //
 #include <string>
 #include <iostream>

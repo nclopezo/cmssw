@@ -6,8 +6,6 @@
 \author Fedor Ratnikov (UMd)
 POOL container to store Gain values 4xCapId
 $Author: ratnikov
-$Date: 2006/07/29 00:21:32 $
-$Revision: 1.7 $
 */
 
 #include <vector>

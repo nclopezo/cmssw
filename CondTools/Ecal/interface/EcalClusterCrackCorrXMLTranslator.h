@@ -2,7 +2,6 @@
    Translates a EcalFloatClusterCrackCorr record to XML and vice versa   
 
    \author 
-   \version $Id: EcalClusterCrackCorrXMLTranslator.h,v 1.0  $
    \date October 2011
 */
 

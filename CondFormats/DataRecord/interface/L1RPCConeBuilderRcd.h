@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Fri Feb 22 12:15:57 CET 2008
-// $Id: L1RPCConeBuilderRcd.h,v 1.2 2008/03/03 07:09:47 wsun Exp $
 //
 
 // #include "FWCore/Framework/interface/EventSetupRecordImplementation.h"

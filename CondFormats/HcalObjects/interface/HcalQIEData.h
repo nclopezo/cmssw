@@ -7,8 +7,6 @@
    (preserve backwards compatibility of methods for this release)
 POOL object to store QIE parameters
 $Author: ratnikov
-$Date: 2012/11/02 14:13:11 $
-$Revision: 1.13 $
 */
 
 #include <vector>

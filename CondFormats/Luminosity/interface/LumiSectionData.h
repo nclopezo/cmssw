@@ -8,7 +8,6 @@
  * each event will occur at one of these BX. BX is defined to be the number of the
  * bunch crossing where this event occurred.
  *
- * $Id: LumiSectionData.h,v 1.2 2009/10/07 14:33:02 xiezhen Exp $
  *
  ************************************************************/
  

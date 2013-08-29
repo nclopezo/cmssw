@@ -8,8 +8,6 @@
  *                  to the Global Trigger
 */                  
 //                
-//   $Date: 2007/04/27 13:16:00 $
-//   $Revision: 1.3 $ 
 //
 //   Original Author :
 //   Hannes Sakulin      HEPHY / Vienna

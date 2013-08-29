@@ -5,8 +5,6 @@
  *  Description:
  *       Class to map read-out channels to physical drift tubes
  *
- *  $Date: 2010/01/20 18:20:08 $
- *  $Revision: 1.7 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

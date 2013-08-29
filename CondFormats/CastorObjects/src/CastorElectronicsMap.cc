@@ -3,8 +3,6 @@
 \author Fedor Ratnikov (UMd)
 POOL object to store mapping for Castor channels
 $Author: ratnikov
-$Date: 2008/01/22 18:58:47 $
-$Revision: 1.23 $
 Adapted for CASTOR by L. Mundim
 */
 

@@ -5,8 +5,6 @@
  *
  *  DB record to hold values of alignment parameters from survey.
  *
- *  $Date: 2007/07/06 16:01:03 $
- *  $Revision: 1.1 $
  *  \author Jim Pivarski
  */
 

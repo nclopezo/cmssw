@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Sat Mar  1 15:49:28 CET 2008
-// $Id: HcalCholeskyMatricesRcd.h,v 1.1 2010/04/26 22:13:33 kukartse Exp $
 //
 
 #include "FWCore/Framework/interface/DependentRecordImplementation.h"

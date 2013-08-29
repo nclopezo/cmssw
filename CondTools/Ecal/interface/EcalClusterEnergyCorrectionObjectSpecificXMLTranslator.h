@@ -3,7 +3,6 @@
    and vice versa   
 
    \author 
-   \version $Id: EcalClusterEnergyCorrectionObjectSpecificXMLTranslator.h,v 1.0  $
    \date November 2011
 */
 

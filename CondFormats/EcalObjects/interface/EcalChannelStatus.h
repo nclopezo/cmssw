@@ -3,7 +3,6 @@
 /**
  * Author: Paolo Meridiani
  * Created: 14 November 2006
- * $Id: EcalChannelStatus.h,v 1.1 2006/11/16 18:18:24 meridian Exp $
  **/
 
 #include "CondFormats/EcalObjects/interface/EcalCondObjectContainer.h"

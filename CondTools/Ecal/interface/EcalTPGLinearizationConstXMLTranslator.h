@@ -1,6 +1,5 @@
 /**
    Translates a EcalTPGLinearizationConst record to XML
-   \version $Id: EcalTPGLinearizationConstXMLTranslator.h,v 1.0 2012/05/01 13:48:05 Exp $
    \date 01 May 2012
 */
 
@@ -21,7 +20,6 @@
 #include <xercesc/framework/LocalFileFormatTarget.hpp>
 
 static const char CVSId__EcalTPGLinearizationConstXMLTranslator[] = 
-"$Id: EcalTPGLinearizationConstXMLTranslator.h,v 1.1 2009/10/20 13:48:05 argiro Exp $";
 
 
 

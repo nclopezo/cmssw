@@ -5,8 +5,6 @@
  *  Description:
  *       Class to hold drift tubes performances ( SL by SL )
  *
- *  $Date: 2008/09/29 13:10:34 $
- *  $Revision: 1.3 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

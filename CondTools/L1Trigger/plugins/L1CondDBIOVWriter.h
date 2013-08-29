@@ -16,7 +16,6 @@
 //
 // Original Author:  Werner Sun
 //         Created:  Sun Mar  2 20:10:36 CET 2008
-// $Id: L1CondDBIOVWriter.h,v 1.6 2009/12/17 23:43:58 wmtan Exp $
 //
 
 // system include files

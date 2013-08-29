@@ -14,7 +14,6 @@ objects from OMDS to ORCON.
 //
 // Original Author:  Michael Eads
 //         Created:  8 Feb 2008
-// $Id: PixelPopConCalibSourceHandler.h,v 1.4 2010/01/21 21:11:45 meads Exp $
 //
 //
 

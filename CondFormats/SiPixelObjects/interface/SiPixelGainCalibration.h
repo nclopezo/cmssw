@@ -16,7 +16,6 @@
 // Original Author:  Vincenzo Chiochia
 //         Created:  Tue 8 12:31:25 CEST 2007
 //         Modified: Evan Friis
-// $Id: SiPixelGainCalibration.h,v 1.8 2009/02/10 17:25:42 rougny Exp $
 //
 //
 #include<vector>

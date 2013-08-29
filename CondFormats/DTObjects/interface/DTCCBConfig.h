@@ -5,8 +5,6 @@
  *  Description:
  *       Class to hold configuration identifier for chambers
  *
- *  $Date: 2010/01/20 18:20:07 $
- *  $Revision: 1.4 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

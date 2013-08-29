@@ -5,8 +5,6 @@
  *  Description:
  *       Class to compute a sequential number for drift tube layers
  *
- *  $Date: 2010/04/30 16:20:08 $
- *  $Revision: 1.1 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

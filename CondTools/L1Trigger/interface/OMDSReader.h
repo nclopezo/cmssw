@@ -16,7 +16,6 @@
 //
 // Original Author:  Werner Sun
 //         Created:  Sun Mar  2 01:36:06 CET 2008
-// $Id: OMDSReader.h,v 1.14 2010/04/12 20:29:23 wsun Exp $
 //
 
 // system include files

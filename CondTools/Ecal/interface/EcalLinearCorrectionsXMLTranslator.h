@@ -3,7 +3,6 @@
    and vice versa   
 
    \author Stefano ARGIRO
-   \version $Id: EcalLinearCorrectionsXMLTranslator.h,v 1.1 2012/11/21 17:01:39 fra Exp $
    \date 20 Jun 2008
 */
 #ifndef __EcalLinearCorrectionsXMLTranslator_h_
@@ -23,7 +22,6 @@
 #include <xercesc/framework/LocalFileFormatTarget.hpp>
 
 static const char CVSId__EcalLinearCorrectionsXMLTranslator[] = 
-"$Id: EcalLinearCorrectionsXMLTranslator.h,v 1.2 2012/05/12 15:33:28 fra Exp $";
 
 class EcalLinearCorrectionsXMLTranslator {
 

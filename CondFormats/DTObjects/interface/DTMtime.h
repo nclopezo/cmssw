@@ -6,8 +6,6 @@
  *       Class to hold drift tubes mean-times
  *             ( SL by SL mean-time calculation )
  *
- *  $Date: 2008/09/29 13:10:34 $
- *  $Revision: 1.8 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

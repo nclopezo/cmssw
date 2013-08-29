@@ -6,8 +6,6 @@
 //                 
 //                  
 //                
-//   $Date: 2011/05/30 04:59:35 $
-//   $Revision: 1.8 $ 
 //
 //   Original Author :
 //   Hannes Sakulin      HEPHY / Vienna

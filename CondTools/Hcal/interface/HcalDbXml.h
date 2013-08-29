@@ -12,7 +12,6 @@
 /**
    \brief IO for XML instances of Hcal Calibrations
    \author Fedor Ratnikov Oct. 28, 2005
-   $Id: HcalDbXml.h,v 1.4 2007/10/22 19:09:59 fedor Exp $
    
 */
 namespace HcalDbXml {

@@ -14,9 +14,6 @@
 #
 #  Author    : Gero Flucke
 #  Date      : February 2009
-#  $Revision: 1.3 $
-#  $Date: 2009/04/21 14:42:50 $
-#  (last update by $Author: flucke $)
 
 import FWCore.ParameterSet.Config as cms
 

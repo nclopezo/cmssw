@@ -18,7 +18,6 @@
 //
 // Original Author:  Werner Sun
 //         Created:  Tue Sep  2 22:48:15 CEST 2008
-// $Id: L1ConfigOnlineProdBase.h,v 1.9 2010/02/16 21:55:43 wsun Exp $
 //
 
 // system include files

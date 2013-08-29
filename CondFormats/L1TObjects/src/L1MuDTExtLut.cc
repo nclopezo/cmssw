@@ -5,8 +5,6 @@
 //   Description: Look-up tables for extrapolation
 //
 //
-//   $Date: 2009/05/13 06:36:48 $
-//   $Revision: 1.6 $
 //
 //   Author :
 //   N. Neumeister            CERN EP

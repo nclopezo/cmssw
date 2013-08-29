@@ -8,8 +8,6 @@
  *   An automatic check is done for the calo eta scales.
 */                  
 //
-//   $Date: 2007/03/23 15:22:01 $
-//   $Revision: 1.1 $
 //
 //
 //   Original Author :

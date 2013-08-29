@@ -6,8 +6,6 @@
 \author Fedor Ratnikov (UMd)
 POOL object to store map between detector ID, electronics ID and trigger ID
 $Author: ratnikov 
-$Date: 2007/12/14 13:31:21 $
-$Revision: 1.17 $
 Modified for CASTOR by L. Mundim
 */
 

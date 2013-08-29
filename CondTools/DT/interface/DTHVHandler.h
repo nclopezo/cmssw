@@ -5,8 +5,6 @@
  *  Description:
  *       Class to analyze high voltage status
  *
- *  $Date: 2008/11/20 12:00:00 $
- *  $Revision: 1.1 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

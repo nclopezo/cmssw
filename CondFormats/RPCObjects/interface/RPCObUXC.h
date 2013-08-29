@@ -1,8 +1,6 @@
 /*
  * Payload definition(s): UXC Temperature, Pressure and Humidity (RPCObUXC)
  *
- *  $Date: 2009/11/16 13:04:37 $
- *  $Revision: 1.3 $
  *  \author D. Pagano - Dip. Fis. Nucl. e Teo. & INFN Pavia
  */
 

@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Mon Feb 11 12:18:02 CET 2008
-// $Id: CastorPedestalWidthsRcd.h,v 1.1 2008/02/15 15:53:04 mccauley Exp $
 //
 
 #include "FWCore/Framework/interface/EventSetupRecordImplementation.h"

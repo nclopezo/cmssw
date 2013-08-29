@@ -2,7 +2,6 @@
    Translates a EcalLaserAPDPNRatios record to XML
    and vice versa   
    \author Stefano Argiro'
-   \version $Id: EcalLaserAPDPNRatiosXMLTranslator.h,v 1.1 2009/10/20 13:48:05 argiro Exp $
    \date 29 Jul 2008
 */
 
@@ -23,7 +22,6 @@
 #include <xercesc/framework/LocalFileFormatTarget.hpp>
 
 static const char CVSId__EcalLaserAPDPNRatiosXMLTranslator[] = 
-"$Id: EcalLaserAPDPNRatiosXMLTranslator.h,v 1.1 2009/10/20 13:48:05 argiro Exp $";
 
 
 

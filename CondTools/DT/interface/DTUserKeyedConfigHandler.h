@@ -5,8 +5,6 @@
  *  Description: 
  *
  *
- *  $Date: 2010/07/21 17:13:43 $
- *  $Revision: 1.3 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

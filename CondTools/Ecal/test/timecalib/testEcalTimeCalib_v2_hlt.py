@@ -7,7 +7,6 @@
 #
 # sed 's/EcalGainRatios/your-record/g' testTemplate.py > testyourrecord.py
 #
-# Stefano Argiro', $Id: testEcalGainRatios.py,v 1.1 2008/11/14 15:46:03 argiro Exp $
 #
 #
 

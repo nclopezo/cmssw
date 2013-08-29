@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Fri Mar  2 16:50:49 CET 2007
-// $Id: EcalShowerContainmentCorrectionsRcd.h,v 1.1.2.1 2007/05/15 20:55:18 argiro Exp $
 //
 
 #include "FWCore/Framework/interface/EventSetupRecordImplementation.h"

@@ -16,7 +16,6 @@
 //
 // Original Author:  Tomasz Fruboes
 //         Created:  Fri Feb 22 12:27:02 CET 2008
-// $Id: L1RPCConeBuilder.h,v 1.8 2009/03/20 15:10:53 michals Exp $
 //
 
 #include <vector>

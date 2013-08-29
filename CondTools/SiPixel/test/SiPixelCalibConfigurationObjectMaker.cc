@@ -13,7 +13,6 @@
 //
 // Original Author:  Freya Blekman
 //         Created:  Wed Sep 19 13:43:52 CEST 2007
-// $Id: SiPixelCalibConfigurationObjectMaker.cc,v 1.5 2009/10/21 15:53:31 heyburn Exp $
 //
 //
 

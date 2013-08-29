@@ -3,7 +3,6 @@
    Test analyzer for ecal conditions
 
    \author Stefano ARGIRO
-   \version $Id: EcalTestConditionAnalyzer.cc,v 1.6 2009/07/01 08:16:25 argiro Exp $
    \date 05 Nov 2008
 */
 

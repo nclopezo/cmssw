@@ -3,7 +3,6 @@
 /**
  * Author: Paolo Meridiani
  * Created: 14 Nov 2006
- * $Id: EcalChannelStatusCode.h,v 1.3 2011/05/17 08:40:07 argiro Exp $
  **/
 
 

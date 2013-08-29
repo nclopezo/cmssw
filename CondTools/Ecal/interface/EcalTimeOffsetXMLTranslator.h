@@ -3,7 +3,6 @@
    and vice versa   
 
    \author Seth Cooper, University of Minnesota
-   \version $Id: $
    \date 21 Mar 2011
 */
 
@@ -17,7 +16,6 @@
 
 
 static const char CVSId__EcalTimeOffsetXMLTranslator[] = 
-"$Id: $";
 
 
 class EcalTimeOffsetConstant;

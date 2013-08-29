@@ -1,7 +1,6 @@
 /**
  * Author: Seth Cooper, University of Minnesota
  * Created: 21 Mar 2011
- * $Id: $
  **/
 
 #include "CondFormats/EcalObjects/interface/EcalTimeOffsetConstant.h"

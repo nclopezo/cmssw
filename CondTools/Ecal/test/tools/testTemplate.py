@@ -18,7 +18,6 @@
 # sed 's/RECORDNAME/EcalTBWeights/g'           testTemplate.py > ! testEcalTBWeights.py
 # sed 's/RECORDNAME/EcalWeightXtalGroup/g'     testTemplate.py > ! testEcalWeightXtalGroup.py
 #
-# Stefano Argiro', $Id: testTemplate.py,v 1.1 2008/11/14 15:46:03 argiro Exp $
 #
 #
 

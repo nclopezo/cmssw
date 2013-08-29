@@ -6,8 +6,6 @@
 //                Look-up table files
 //
 //
-//   $Date: 2007/02/27 11:43:59 $
-//   $Revision: 1.2 $
 //
 //   Author :
 //   N. Neumeister            CERN EP

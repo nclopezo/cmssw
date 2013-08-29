@@ -3,7 +3,6 @@
 
 /**
  * Author: Emmanuelle Perez & Paolo Meridiani
- * $Id: $
  **/
 #include "CondFormats/EcalObjects/interface/EcalCondObjectContainer.h"
 

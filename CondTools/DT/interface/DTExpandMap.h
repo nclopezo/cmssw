@@ -5,8 +5,6 @@
  *  Description:
  *       Class to build full readout map from compact map
  *
- *  $Date: 2009/03/19 12:00:00 $
- *  $Revision: 1.1 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

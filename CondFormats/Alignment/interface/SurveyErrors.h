@@ -7,8 +7,6 @@
  *
  *  For more info, see CondFormats/Alignment/interface/SurveyError.h
  *
- *  $Date: 2007/03/22 $
- *  $Revision: 1.1 $
  *  \author Chung Khim Lae
  */
 

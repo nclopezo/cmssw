@@ -5,7 +5,6 @@
 //
 // Author:      Chris Jones
 // Created:     Mon Apr 18 16:42:52 EDT 2005
-// $Id: T_EventSetup_EcalTPGWeightGroup.cc,v 1.1 2007/08/07 09:08:59 paganini Exp $
 //
 
 // user include files

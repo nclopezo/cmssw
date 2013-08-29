@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Mon Apr 21 15:48:55 CEST 2008
-// $Id: RPCStripNoisesRcd.h,v 1.1 2008/05/12 08:34:42 trentad Exp $
 //
 
 #include "FWCore/Framework/interface/EventSetupRecordImplementation.h"

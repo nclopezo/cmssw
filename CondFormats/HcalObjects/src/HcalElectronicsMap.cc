@@ -3,8 +3,6 @@
 \author Fedor Ratnikov (UMd)
 POOL object to store mapping for Hcal channels
 $Author: ratnikov
-$Date: 2007/09/18 06:48:38 $
-$Revision: 1.22 $
 */
 
 #include <iostream>

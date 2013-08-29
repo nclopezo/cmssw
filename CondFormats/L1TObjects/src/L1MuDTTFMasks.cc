@@ -5,8 +5,6 @@
 //   Description: DTTF Masks from OMDS
 //
 //
-//   $Date: 2009/05/12 10:38:35 $
-//   $Revision: 1.2 $
 //
 //   Author :
 //   J. Troconiz              UAM Madrid

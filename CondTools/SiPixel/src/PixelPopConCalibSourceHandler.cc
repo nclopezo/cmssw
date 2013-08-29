@@ -13,7 +13,6 @@
 //
 // Original Author:  Michael Eads
 //         Created:  8 Feb 2008
-// $Id: PixelPopConCalibSourceHandler.cc,v 1.3 2010/01/21 21:11:46 meads Exp $
 //
 //
 

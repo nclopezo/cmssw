@@ -12,7 +12,6 @@
 
 // Created:     Thu Apr 12 11:18:05 CEST 2007
 
-// $Id: CSCL1TPParametersRcd.cc,v 1.1 2007/04/19 15:52:09 jbrooke Exp $
 
 
 

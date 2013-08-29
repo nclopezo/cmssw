@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Wed Oct  4 16:49:43 CEST 2006
-// $Id: L1JetEtScaleRcd.h,v 1.1 2007/03/16 13:51:29 heath Exp $
 //
 
 #include "boost/mpl/vector.hpp"

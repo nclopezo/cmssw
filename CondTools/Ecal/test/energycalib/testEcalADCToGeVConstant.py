@@ -18,7 +18,6 @@
 # sed 's/EcalADCToGeVConstant/EcalTBWeights/g'           testTemplate.py > ! testEcalTBWeights.py
 # sed 's/EcalADCToGeVConstant/EcalWeightXtalGroup/g'     testTemplate.py > ! testEcalWeightXtalGroup.py
 #
-# Stefano Argiro', $Id: testEcalADCToGeVConstant.py,v 1.1 2008/11/14 15:46:03 argiro Exp $
 #
 #
 

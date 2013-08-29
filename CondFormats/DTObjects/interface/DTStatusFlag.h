@@ -6,8 +6,6 @@
  *       Class to hold drift tubes status
  *             ( cell by cell noise and masks )
  *
- *  $Date: 2009/09/25 12:03:19 $
- *  $Revision: 1.5 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

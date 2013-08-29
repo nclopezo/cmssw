@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Wed Nov 19 15:48:55 CEST 2008
-// $Id: RPCDeadStripsRcd.h,v 1.3 2008/11/19 18:55:37 sanabria Exp $
 //
 
 

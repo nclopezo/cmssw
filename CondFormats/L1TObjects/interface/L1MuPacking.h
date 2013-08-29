@@ -6,8 +6,6 @@
  *
 */
 //
-//   $Date: 2008/04/16 23:25:10 $
-//   $Revision: 1.4 $
 //
 //   Original Author :
 //   H. Sakulin            HEPHY Vienna

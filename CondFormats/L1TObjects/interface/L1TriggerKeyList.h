@@ -16,7 +16,6 @@
 //
 // Original Author:  Werner Sun
 //         Created:  Fri Feb 29 20:44:53 CET 2008
-// $Id: L1TriggerKeyList.h,v 1.3 2008/11/06 23:13:00 wsun Exp $
 //
 
 // system include files

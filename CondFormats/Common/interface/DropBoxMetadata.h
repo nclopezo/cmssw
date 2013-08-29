@@ -4,8 +4,6 @@
 /** \class DropBoxMetadata
  *  No description available.
  *
- *  $Date: 2011/02/23 16:55:18 $
- *  $Revision: 1.1 $
  *  \author G. Cerminara - CERN
  */
 

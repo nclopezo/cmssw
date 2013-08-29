@@ -5,8 +5,6 @@
  *  Description: Class to copy CCB DCS-status via PopCon
  *
  *
- *  $Date: 2010/07/21 16:06:53 $
- *  $Revision: 1.2 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

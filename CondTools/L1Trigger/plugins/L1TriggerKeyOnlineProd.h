@@ -16,7 +16,6 @@
 //
 // Original Author:  
 //         Created:  Sun Mar  2 03:04:19 CET 2008
-// $Id: L1TriggerKeyOnlineProd.h,v 1.2 2008/09/12 04:50:59 wsun Exp $
 //
 
 // system include files

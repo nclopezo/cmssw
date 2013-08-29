@@ -1,4 +1,3 @@
-// $Id: $
 #ifndef RPCTECHTRIGGERCONFIG_H 
 #define RPCTECHTRIGGERCONFIG_H 1
 

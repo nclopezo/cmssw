@@ -13,7 +13,6 @@
 //
 // Original Author:  Werner Man-Li Sun
 //         Created:  Thu Aug 21 20:00:59 CEST 2008
-// $Id: L1SubsystemKeysOnlineProd.cc,v 1.5 2010/02/01 22:00:03 wsun Exp $
 //
 //
 

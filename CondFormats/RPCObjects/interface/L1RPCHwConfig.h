@@ -16,7 +16,6 @@
 //
 // Original Author:  
 //         Created:  Wed Apr  9 13:48:06 CEST 2008
-// $Id: L1RPCHwConfig.h,v 1.4 2008/06/24 11:06:53 michals Exp $
 //
 
 // system include files

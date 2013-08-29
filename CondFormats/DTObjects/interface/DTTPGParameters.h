@@ -5,8 +5,6 @@
  *  Description:
  *       Class to hold drift tubes TPG parameters
  *
- *  $Date: 2009/03/06 14:09:14 $
- *  $Revision: 1.2 $
  *  \author Paolo Ronchese INFN Padova
  *
  */

@@ -7,8 +7,6 @@
  *   coarse eta values 
  *
  *
- *   $Date: 2007/03/30 07:48:02 $
- *   $Revision: 1.1 $
  *
  *   N. Neumeister            CERN EP
  */

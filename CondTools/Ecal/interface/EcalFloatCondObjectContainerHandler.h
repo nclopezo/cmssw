@@ -3,7 +3,6 @@
    Declaration of class FloatCondObjectContainerHandler
 
    \author Stefano ARGIRO
-   \version $Id: EcalFloatCondObjectContainerHandler.h,v 1.1 2009/06/30 14:40:11 argiro Exp $
    \date 09 Sep 2008
 */
 
@@ -18,7 +17,6 @@
 #include <string>
 
 static const char CVSId_CondToolsEcal_EcalFloatCondObjectContainerHandler[] = 
-"$Id: EcalFloatCondObjectContainerHandler.h,v 1.1 2009/06/30 14:40:11 argiro Exp $";
 
   /**
      \class EcalFloatCondObjectContainerHandler EcalFloatCondObjectContainerHandler.h "/EcalFloatCondObjectContainerHandler.h"

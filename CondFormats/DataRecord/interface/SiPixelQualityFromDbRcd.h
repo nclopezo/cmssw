@@ -16,7 +16,6 @@
 //
 // Author:      
 // Created:     Fri Oct 17 11:53:51 CEST 2008
-// $Id: SiPixelQualityFromDbRcd.h,v 1.1 2008/10/17 09:55:15 fblekman Exp $
 //
 
 #include "FWCore/Framework/interface/EventSetupRecordImplementation.h"

@@ -16,7 +16,6 @@
 //
 // Original Author:  Tomasz Fruboes
 //         Created:  Tue Mar 20 12:03:50 CET 2007
-// $Id: L1RPCConfig.h,v 1.3 2007/11/20 17:32:50 michals Exp $
 //
 
 #include <string>
