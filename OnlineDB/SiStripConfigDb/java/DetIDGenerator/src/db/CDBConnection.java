@@ -9,7 +9,6 @@ import java.util.Vector;
  * @version 1.0
 **/
 /*
-  $Date: 2006/02/02 17:17:00 $
   
   $Log: CDBConnection.java,v $
   Revision 1.4  2006/02/02 17:17:00  baulieu

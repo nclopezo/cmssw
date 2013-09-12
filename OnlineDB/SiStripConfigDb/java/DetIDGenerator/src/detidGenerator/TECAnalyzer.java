@@ -11,7 +11,6 @@ import java.util.ArrayList;
  */
 
 /*
-  $Date: 2007/01/18 17:04:45 $
   
   $Log: TECAnalyzer.java,v $
   Revision 1.2  2007/01/18 17:04:45  gbaulieu

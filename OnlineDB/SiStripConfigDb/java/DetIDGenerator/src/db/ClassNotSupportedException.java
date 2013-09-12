@@ -7,7 +7,6 @@ package db;
 **/
 
 /*
- $Date: 2006/06/07 12:40:42 $
 
  $Log: ClassNotSupportedException.java,v $
  Revision 1.2  2006/06/07 12:40:42  baulieu
