@@ -10,7 +10,6 @@ import java.util.Vector;
 **/
 /*
   
-  $Log: CDBConnection.java,v $
   Revision 1.4  2006/02/02 17:17:00  baulieu
   Some modifications for JDK 1.5
   Call a PL/SQL function to export the parameters

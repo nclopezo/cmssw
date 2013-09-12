@@ -8,7 +8,6 @@ package detidGenerator;
 
 /*
   
-  $Log: TOBDetIdConverter.java,v $
   Revision 1.3  2006/08/31 15:24:29  gbaulieu
   The TOBCS are directly in the TOB
   Correction on the Stereo flag
