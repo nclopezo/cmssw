@@ -27,6 +27,7 @@ sort -u function-dumper.txt.unsorted >function-calls-db.txt
 sort -u function-checker.txt.unsorted >function-statics-db.txt
 sort -u plugins.txt.unsorted > plugins.txt
 cat  function-calls-db.txt function-statics-db.txt >db.txt
+source $CMSSW_RELEASE_BASE/../../../external/py2-networkx/etc/profile.d/init.sh
 statics.py 2>&1 >module2statics.txt.unsorted
 sort -u module2statics.txt.unsorted > module2statics.txt.sorted
 awk -F\' 'NR==FNR{a[" "$0"::"]=1;next} {n=0;for(i in a){if(index($2,i) && $1 == "In call stack "){n=1}}} n' plugins.txt module2statics.txt.unsorted | sort -u | awk '{print $0"\n"}' > module2statics.txt
