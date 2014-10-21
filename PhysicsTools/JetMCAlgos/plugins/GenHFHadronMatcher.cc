@@ -97,7 +97,6 @@ private:
 
 // ----------member data ---------------------------
     edm::InputTag genJets_;
-    edm::EDGetTokenT<reco::GenJetCollection> genJetsToken_;
     int flavour_;
     bool noBBbarResonances_;
     bool onlyJetClusteredHadrons_;
@@ -148,7 +147,6 @@ GenHFHadronMatcher::GenHFHadronMatcher ( const edm::ParameterSet& cfg )
 {
 
     genJets_           = cfg.getParameter<edm::InputTag> ( "genJets" );
-    genJetsToken_      = consumes<reco::GenJetCollection>(genJets_);
     flavour_           = cfg.getParameter<int> ( "flavour" );
     noBBbarResonances_ = cfg.getParameter<bool> ( "noBBbarResonances" );
     onlyJetClusteredHadrons_ = cfg.getParameter<bool> ( "onlyJetClusteredHadrons" );
@@ -221,7 +219,7 @@ void GenHFHadronMatcher::produce ( edm::Event& evt, const edm::EventSetup& setup
     using namespace edm;
 
     edm::Handle<reco::GenJetCollection> genJets;
-    evt.getByToken ( genJetsToken_, genJets );
+    evt.getByLabel ( genJets_, genJets );
 
 
     // Defining adron matching variables
